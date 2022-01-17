@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/mexwebdev21/typemaster-landing-page](https://github.com/mexwebdev21/typemaster-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://typemaster-launch.netlify.app/](https://typemaster-launch.netlify.app/)
 
 ## My process
 
@@ -51,5 +51,5 @@ There are some breakpoints that still need to be addressed (especially between 3
 
 ## Author
 
-- Frontend Mentor - [@mexwebdev21](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mexwebdev21](https://www.frontendmentor.io/profile/mexwebdev21)
 - Twitter - [@mexwebdev2121](https://www.twitter.com/mexwebdev2121)
